@@ -2,7 +2,7 @@
 
 西安交通大学测控专业特色资料与经验整理仓库。
 
-GitHub 地址：[Askiike/XJTU-Measurement-and-Control-Share](https://github.com/Askiike/XJTU-Measurement-and-Control-Share)
+GitHub 地址：[XJTU-Instrumentation-Share/XJTU-Measurement-and-Control-Share](https://github.com/XJTU-Instrumentation-Share/XJTU-Measurement-and-Control-Share)
 
 本仓库希望补上测控同学在学习过程里最常遇到的那块缺口：不是高数、线代、思政、模电、数电、工程制图这类已有大量资料沉淀的课程，而是测控专业那些更分散、更交叉、更少有人系统整理的特色课程和经验。
 
