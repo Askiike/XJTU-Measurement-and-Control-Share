@@ -2,6 +2,7 @@
 
 西安交通大学测控专业特色资料与经验整理仓库。
 > 本科教育至少得展现它应有的诚意，一种分享知识的诚意，一种以人为本的诚意，一种注重学生体验的诚意。(cs自学指南https://csdiy.wiki/）
+
 GitHub 地址：[XJTU-Instrumentation-Share/XJTU-Measurement-and-Control-Share](https://github.com/XJTU-Instrumentation-Share/XJTU-Measurement-and-Control-Share)
 
 一个面向测控专业特色内容的补丁包，欢迎一起加入，踊跃投稿。
